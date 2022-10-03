@@ -1,11 +1,12 @@
 # Iocaste
 
-Academic problem solvers' language
+Academic problem solvers' programming language
 
 ## Ideas
 
 - Int type with range (like `Int [0 < _ < 1000]`) using Refinement Type System
 - Linear Type System
+- Specialized input/output statement
 
 ## Goals
 
